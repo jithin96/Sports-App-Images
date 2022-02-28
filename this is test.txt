@@ -6,3 +6,6 @@ git add .
 git commit -m "<write the comments what you have to say on that project>"
 
 git push origin main 
+
+
+git status 
